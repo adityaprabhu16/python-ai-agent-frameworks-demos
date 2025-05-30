@@ -169,3 +169,8 @@ This project includes infrastructure as code (IaC) to provision Azure OpenAI dep
 * [PydanticAI Documentation](https://ai.pydantic.dev/multi-agent-applications/)
 * [Semantic Kernel Documentation](https://learn.microsoft.com/semantic-kernel/overview/)
 * [SmolAgents Documentation](https://huggingface.co/docs/smolagents/index)
+
+
+## Aditya's Notes:
+* Activating the Python environment (Mac):
+* source venv/bin/activate
