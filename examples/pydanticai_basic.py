@@ -33,7 +33,7 @@ agent: Agent[None, str] = Agent(
 
 async def main():
     result = await agent.run("oh hey how are you?")
-    print(result.data)
+    print(result.output)
 
 
 if __name__ == "__main__":

@@ -174,3 +174,8 @@ This project includes infrastructure as code (IaC) to provision Azure OpenAI dep
 ## Aditya's Notes:
 * Activating the Python environment (Mac):
 * source venv/bin/activate
+
+* Storing your github token to access agent models:
+* export GITHUB_TOKEN=your_api_token
+* Note: this is temporarily stored in your terminal session's environment variables. When you close the terminal, the key is gone.
+* Better practice would be to store it in an .env file.
